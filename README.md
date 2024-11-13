@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Patricia currently a student, interested in learning a lil bit bout anything related to system's development.
-- Till now, the most enjoyed subject: Pesquisa e Ordenação (tree & graph)
+- 👋 Hi, I’m Patricia currently a analysis and systems development student.
+- Math is beautiful, and I like it in all of its forms and ways.
+- So, right now i'm thriving through/learning path of artificial neural networks, genetic algorythms, science data and kotlin for mobile development.
 
 <!---
 PatriciaTnk/PatriciaTnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
